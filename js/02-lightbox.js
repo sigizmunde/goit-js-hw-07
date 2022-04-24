@@ -13,7 +13,7 @@ var lightbox = new SimpleLightbox(".gallery a", {
   captionType: "attr",
   captionAttribute: "title",
   captionPosition: "bottom",
-  captionDelay: 0,
+  captionDelay: 250,
   showCounter: false,
 });
 
